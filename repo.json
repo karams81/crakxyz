@@ -1,0 +1,9 @@
+{
+  "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/aniworld.png",
+  "name": "patron_karams81",
+  "description": "Gönlün gibi",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/karams81/crakxyz/refs/heads/main/data.json"
+  ]
+}
